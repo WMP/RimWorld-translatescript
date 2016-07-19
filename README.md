@@ -180,5 +180,5 @@ File: Keyed/Gameplay.xml:
 ```
 How to install:
 ```bash
-cpan XML::Simple File::Find;
+cpan XML::Simple File::Find
 ```
